@@ -8,8 +8,8 @@ For example, using [Anaconda](https://docs.anaconda.com/free/anaconda/install/)
 
 Next, please run:
 ```
-conda create -n sentanalysis python=3.11
-conda activate sentanalysis
+conda create -n MRGNN python=3.11
+conda activate MRGNN
 
 pip install -r requirements.txt
 
