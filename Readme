@@ -18,6 +18,6 @@ pip install jupyter
 
 Open and execute `Bi_GRU_self_attention.ipynb` to run the BiGRU self attention network to extract causal phrases from review snippets*.
 The second notebook, i.e., `Latent_semantic_Indexing_and_MRGNN.ipynb`, contains the code to extract phrase embeddings from the causes extracted by Bi_GRU_self_attention network. Note that the first note book could be run on CPU, whereas the second notebook requires a GPU.
-Each notebook could be executed independently, downloading the required dataset in each execution. 
+Each notebook could be executed independently, downloading the required datasets provided. 
 
 
